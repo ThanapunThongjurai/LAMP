@@ -1,2 +1,2 @@
 # LAMP
- LAMP in myROOM
+Lamp Blynk App
